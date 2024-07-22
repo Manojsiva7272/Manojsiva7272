@@ -1,5 +1,24 @@
-[![MasterHead](https://previews.123rf.com/images/vasilyrosca/vasilyrosca1901/vasilyrosca190100028/126461834-python-programming-code-technology-banner-python-language-software-coding-development-website-design.jpg)]
-<h1 align="center">Hi 👋, I'm Manoj</h1>
+![new linkedin background](https://github.com/user-attachments/assets/15cd7b0b-9616-48fb-bd51-57c9c8adcaf0)
+
+# Welcome to My GitHub Profile! 👋
+
+## About Me
+
+I'm an enthusiastic AI student currently in my pre-final year of B.Tech in AI & Data Science. I have a passion for programming, problem-solving, and continuous learning. Here are some highlights about me:
+
+- 📚 Education: B.Tech in Artificial Intelligence & Data Science
+- 🖥️ Programming Languages: Python, C
+- 🛠️ Skills: 
+  - Proficient in solving programming errors and debugging
+  - Basic web development
+  - Application development
+  - Photoshop
+- 🌟 Soft Skills:
+  - Strong leadership skills
+  - Excellent team player
+  - Ability to work collaboratively and communicate effectively
+- 🥊 Physical Health: I take care of my physical health by practicing boxing.
+<h1 align="center">Hi 👋,I'm Manoj</h1>
 <h3 align="center">A Passionate Software developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
