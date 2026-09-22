@@ -1,117 +1,238 @@
-![new linkedin background](https://github.com/user-attachments/assets/15cd7b0b-9616-48fb-bd51-57c9c8adcaf0)
+<div align="center">
 
-# Welcome to My GitHub Profile! 👋
+<img src="assets/linkedin_banner.png" alt="Manoj S - AI/ML Developer" width="100%">
 
-## About Me
+# 👋 Hi, I'm Manoj S
 
-I am actively seeking opportunities as an AI Engineer, Generative AI Engineer, Machine Learning Engineer, or Data Scientist, where I can apply my technical skills, problem-solving abilities, and passion for innovation to create impactful AI-driven solutions.
+### 🤖 AI/ML Developer | Generative AI | RAG | Agentic AI
 
-As an Artificial Intelligence & Data Science graduate, I have a strong foundation in Artificial Intelligence, Machine Learning, Deep Learning, Generative AI, Agentic AI, and Data Science. I am passionate about leveraging emerging technologies to solve real-world challenges and deliver meaningful business value.
-
-My hands-on experience includes developing AI-powered applications, intelligent chatbots, and machine learning solutions. I have worked on projects such as DeskMate, an AI-based college receptionist chatbot, and Law Talk, an AI-powered legal assistance chatbot. Additionally, I completed an Agentic AI Internship, where I gained practical experience working with Large Language Models (LLMs), Prompt Engineering, Retrieval-Augmented Generation (RAG), AI automation workflows, and intelligent AI agent development.
-
-Beyond technical development, I am an active technology enthusiast and content creator. Through my blog, I share insights on Artificial Intelligence, Machine Learning, Generative AI, Prompt Engineering, Data Science, Computer Vision, Blockchain, Quantum Computing, and other emerging technologies. I enjoy simplifying complex concepts and contributing to the learning community by making advanced technologies more accessible.
-
-My technical expertise includes:
-• Artificial Intelligence (AI)
-• Agentic AI & Generative AI
-• Machine Learning & Deep Learning
-• Large Language Models (LLMs)
-• Prompt Engineering
-• Retrieval-Augmented Generation (RAG)
-• Python Programming
-• Data Science & Analytics
-• Computer Vision
-• AI Automation
-
-I am a highly motivated learner who thrives in collaborative environments and is committed to continuous growth. I am eager to contribute to forward-thinking organizations that are leveraging AI and data-driven technologies to drive innovation and business success.
-
-📩 I am currently open to full-time opportunities, internships, and entry-level roles in AI, Machine Learning, Generative AI, Data Science, and related domains. I welcome connections with recruiters, hiring managers, industry professionals, and organizations looking for passionate talent ready to make an impact.
-
-
-<h1 align="center">Hi 👋, I'm Manoj</h1>
-<h3 align="center">A Passionate Software Developer from India</h3>
-
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=manojsiva7272&label=Profile%20views&color=0e75b6&style=flat" alt="manojsiva7272" /> 
+<p>
+  <a href="https://linkedin.com/in/manoj7272">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:manojisiva202@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/Manojsiva7272">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
 </p>
 
-- 🌱 I’m currently learning **Python**  
-- 💬 Ask me about **DBMS, SQL**  
-- 📫 Reach me at: **manojsiva202@gmail.com**  
-- ⚡ Fun fact: **I love travelling**
+</div>
 
 ---
 
-<h3 align="left">Connect with me:</h3>
+## 👨‍💻 About Me
 
-<p align="left">
-  <a href="https://linkedin.com/in/manoj7272" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manoj7272" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/mass_manoj_7272" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mass_manoj_7272" height="30" width="40" />
-  </a>
+I am a recent **B.Tech graduate in Artificial Intelligence and Data Science** with hands-on experience in **Machine Learning, Generative AI, Large Language Models, RAG, and Agentic AI**.
+
+I enjoy turning ideas into practical AI-powered applications and solving real-world problems using modern AI technologies.
+
+My experience includes developing **AI chatbots, RAG-based applications, machine learning solutions, and AI-powered automation systems**.
+
+I have also gained practical experience through internships involving **Generative AI, Agentic AI, QA Testing, Web Development, and Digital Marketing**.
+
+### 🎯 Career Interests
+
+- 🤖 AI Engineer
+- 🧠 Machine Learning Engineer
+- ✨ Generative AI Engineer
+- 🔗 RAG / LLM Application Developer
+- ⚙️ AI Automation Engineer
+- 💻 Software Developer
+
+---
+
+## 🛠️ Technical Skills
+
+### 💻 Programming & Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,html,css,js,flask,git,github" />
 </p>
 
-<h4>📚 Blogs</h4>
-<p>
-  <a href="https://futuretechnavigator.blogspot.com/" target="blank">
-    <img align="center" src="https://www.blogger.com/favicon.ico" alt="blogger" height="20" width="20" /> https://futuretechnavigator.blogspot.com/
-  </a>
-</p>
+**Python • Java • SQL • HTML • CSS • JavaScript • Flask • REST APIs • Git • GitHub**
 
-<h4>🌐 Communities</h4>
-<p>
-  <a href="https://futuretechnavigator.quora.com/" target="blank">
-    <img align="center" src="https://cdn.iconscout.com/icon/free/png-256/free-quora-226593.png" alt="quora" height="20" width="20" /> https://futuretechnavigator.quora.com/
-  </a>
+### 🤖 AI / Machine Learning
+
+**Machine Learning • Deep Learning • NLP • Computer Vision • Model Evaluation • Data Preprocessing**
+
+### ✨ Generative AI
+
+**Generative AI • LLMs • Prompt Engineering • RAG • Agentic AI • AI Automation**
+
+### 🔗 AI Frameworks & Tools
+
+**LangChain • LangGraph • FAISS • Vector Databases • Hugging Face • BeautifulSoup**
+
+### 🗄️ Databases & Data
+
+**SQL • MySQL • SQLite • Pandas • NumPy • Data Processing**
+
+---
+
+## 🚀 Featured Projects
+
+### 💬 CollegeInfoMate – AI College Receptionist
+
+An AI-powered college information chatbot designed to act as a virtual receptionist.
+
+Visitors can scan a QR code and interact with the chatbot to get information about the college.
+
+**Technologies:**
+
+`Python` `Generative AI` `RAG` `FAISS` `LangChain` `BeautifulSoup` `LLMs`
+
+🔗 **Repository:**  
+https://github.com/Manojsiva7272/CollegeInfomate
+
+---
+
+### ⚖️ Law Talk – AI Legal Information Chatbot
+
+An AI-powered chatbot designed to provide conversational access to legal information using modern Generative AI and retrieval-based techniques.
+
+**Technologies:**
+
+`Python` `Generative AI` `RAG` `LLMs` `LangChain`
+
+🔗 **Repository:**  
+https://github.com/Manojsiva7272/Law-Talk-Chatbot
+
+---
+
+### 🏭 AI-Powered eBOM to mBOM Converter
+
+An AI-powered manufacturing solution designed to convert **Engineering Bill of Materials (eBOM)** information into manufacturing-oriented process information.
+
+The application includes data processing, AI-assisted conversion, process generation, and database integration.
+
+**Technologies:**
+
+`Python` `Flask` `Gemini` `SQLite` `Pandas` `Generative AI`
+
+---
+
+## 💼 Internship Experience
+
+### 🤖 GenAI & Agentic AI Intern
+**DigiDara Technologies**
+
+Worked with:
+
+- Generative AI
+- Agentic AI
+- Large Language Models
+- Prompt Engineering
+- RAG
+- AI automation workflows
+- AI agent development
+
+### 🧪 QA Tester
+**Datazsoft**
+
+Worked on software testing and learned:
+
+- Manual Testing
+- Bug Reporting
+- Bug Tracking
+- End-to-End Testing
+
+### 🌐 SEO & Web Development Intern
+**Techcmantix Pvt. Ltd.**
+
+Worked on:
+
+- SEO
+- Website development
+- Web technologies
+- Digital content optimization
+
+---
+
+## 🏆 Achievements
+
+🏅 **L&T Techgium 8th Edition Finalist**
+
+Selected among the finalist teams for the L&T Techgium innovation challenge.
+
+🥉 **3rd Prize – CMR Hackathon, Telangana**
+
+🥇 **1st Prize – Prompt Engineering Competition**
+
+🏆 **Top 10 – Moonlight Talkshop**
+
+🎬 **1st Prize – Short Film Competition**
+
+---
+
+## 📚 Currently Learning
+
+- 🧠 Advanced Machine Learning
+- ✨ Generative AI
+- 🔗 Advanced RAG
+- 🤖 Agentic AI
+- 🕸️ LangGraph
+- 🧩 LLM Application Development
+- 🚀 AI Application Deployment
+- ☁️ Cloud & AI Engineering
+
+---
+
+## ✍️ Content & Knowledge Sharing
+
+I enjoy writing and sharing simplified technical content about emerging technologies.
+
+### 📝 Blog
+
+🔗 https://futuretechnavigator.blogspot.com/
+
+Topics include:
+
+**AI • Generative AI • RAG • Machine Learning • Data Science • Prompt Engineering • LLMs • Emerging Technologies**
+
+### 🌐 Quora Space
+
+🔗 https://futuretechnavigator.quora.com/
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+
+<a href="https://linkedin.com/in/manoj7272">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:manojisiva202@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://github.com/Manojsiva7272">
+<img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"/>
+</a>
+
 </p>
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  </a>
-  <a href="https://www.r-project.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="r" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://www.javascript.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-</p>
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Manojsiva7272&show_icons=true&theme=transparent&hide_border=true" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manojsiva7272&layout=compact&theme=transparent&hide_border=true" height="180"/>
+
+</div>
 
 ---
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manojsiva7272&show_icons=true&locale=en&layout=compact" alt="manojsiva7272" />
-</p>
+<div align="center">
 
-<p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=manojsiva7272&show_icons=true&locale=en" alt="manojsiva7272" />
-</p>
+### 💡 Better Models → Smarter Systems → Real-World Impact
+
+⭐ **Thanks for visiting my profile!**
+
+</div>
