@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/linkedin_banner.png" alt="Manoj S - AI/ML Developer" width="100%">
+<img src="linkedin_banner.png" alt="Manoj S - AI/ML Developer" width="100%">
 
 # 👋 Hi, I'm Manoj S
 
